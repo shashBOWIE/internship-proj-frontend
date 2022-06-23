@@ -57,25 +57,3 @@ for item in mp_table.keys():
             pass
 
         neighborhoods[place] = temp_list
-
-print(neighborhoods)
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-    
-    
-
-
-

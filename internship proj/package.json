@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  },
+  "name": "internship-proj",
+  "version": "1.0.0",
+  "main": "transferpath.js",
+  "scripts": {
+    "start": "nodemon transferpath.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
